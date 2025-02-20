@@ -52,7 +52,7 @@ python3 bot.py
 For a fast mode using Bot2.py:
 
 ```bash
-python3 bot2.py
+python3 Bot2.py
 ```
 Once you’ve followed these steps, the deployment and auto-send bot should be running, ready to send tokens automatically.
 
