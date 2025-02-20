@@ -18,7 +18,7 @@ Clone the Monad Testnet repository using Git:
 
 ```bash
 git clone https://github.com/yndra04/MonadTestnetDeploy.git
-cd Monad-Testnet
+cd MonadTestnetDeploy
 ```
 This will clone the repository and navigate into the project directory.
 
