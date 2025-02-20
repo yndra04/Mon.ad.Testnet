@@ -40,7 +40,7 @@ pip3 install -r requirements.txt
 Now, run the bot in a screen session. This will keep the bot running even if you disconnect from the terminal.
 
 ```bash
-screen -S autosend
+screen -S MonadTestnet
 ```
 After that, you can run the bot:
 
