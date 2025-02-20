@@ -17,7 +17,7 @@ This command downloads the script, gives it execute permissions, and runs it to 
 Clone the Monad Testnet repository using Git:
 
 ```bash
-git clone https://github.com/yndra04/Mon.ad.Testnet.git
+git clone https://github.com/yndra04/MonadTestnetDeploy.git
 cd Monad-Testnet
 ```
 This will clone the repository and navigate into the project directory.
@@ -40,7 +40,7 @@ pip3 install -r requirements.txt
 Now, run the bot in a screen session. This will keep the bot running even if you disconnect from the terminal.
 
 ```bash
-screen -S MonadTestnet
+screen -S MonadTestnetDeploy
 ```
 After that, you can run the bot:
 
