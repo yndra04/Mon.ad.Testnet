@@ -17,7 +17,7 @@ This command downloads the script, gives it execute permissions, and runs it to 
 Clone the Monad Testnet repository using Git:
 
 ```bash
-git clone https://github.com/yndra04/Monad_Testnet.git
+git clone https://github.com/yndra04/Mon.ad.Testnet.git
 cd Monad-Testnet
 ```
 This will clone the repository and navigate into the project directory.
