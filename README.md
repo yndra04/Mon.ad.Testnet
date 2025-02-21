@@ -29,6 +29,8 @@ This will clone the repository and navigate into the project directory.
 To install the necessary dependencies, run the following commands:
 ```
 sudo apt install python3 python3-pip -y
+pip install web3
+
 ```
 
 ```bash
